@@ -1,4 +1,5 @@
 # DATA ENGINEERING PROJECT 
 # Mohamed LAIMECHE, Nandi TRAORE et Bastien HOORELBEKE
-
-L'organigramme [Organigramme](./Organigrammes.png)
+Contenu du projet: 
+* L'organigramme [Organigramme](./Organigrammes.png)
+* Le [diaporama](./INDE1-projet.odp)
