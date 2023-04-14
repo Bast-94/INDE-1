@@ -1,4 +1,4 @@
 # DATA ENGINEERING PROJECT 
 # Mohamed LAIMECHE, Nandi TRAORE et Bastien HOORELBEKE
 
-[Organigramme](./Organigrammes.png)
+L'organigramme [Organigramme](./Organigrammes.png)
